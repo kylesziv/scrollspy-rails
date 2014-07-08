@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Scrollspy::Rails
 
 TODO: Write a gem description
